@@ -7,8 +7,7 @@ Cleaned and preprocessed COVID-19 datasets to ensure data quality and consistenc
 
 ## Power Bi Dashboards
 Covid-19 Page
-![Image](https://github.com/user-attachments/assets/512fe546-4bb0-4c2b-81a1-6c2cbd0f9b59)
-
+![Image](https://github.com/user-attachments/assets/96e3210e-b477-4666-af07-92b84e775202)
 
 Covid-19 
-Page ![Image](https://github.com/user-attachments/assets/c3643724-8810-498f-b898-cafad37a6ab7)
+![Image](https://github.com/user-attachments/assets/f8f203fc-be40-46eb-9387-b28c4fa0ea36)
